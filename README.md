@@ -15,6 +15,9 @@ Automate the creation of a network team (NIC Teaming) for improved redundancy an
 ### 3. Renaming Network Interfaces
 Quickly rename network interfaces using PowerShell, making it easier to manage and identify your network devices.
 
+### 3. Automating User Account Creation and Auto-Login Configuration
+This PowerShell script creates a local user account, ensures the password never expires, and optionally configures auto-login based on user input.
+
 ## How to Use
 
 1. Clone or download the repository.
